@@ -1,0 +1,23 @@
+
+    <table>
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+        </tr>
+        <tr align="right">
+           <td >Amanda</td>
+           <td>24</td> 
+        </tr>
+        <tr align="right">
+           <td >Matheus</td>
+           <td>19</td> 
+        </tr>
+        <tr align="right">
+           <td >Moisés</td>
+           <td>21</td> 
+        </tr>
+        <tr align="right">
+           <td >Amado</td>
+           <td>28</td> 
+        </tr>
+    </table>

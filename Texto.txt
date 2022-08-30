@@ -1,0 +1,12 @@
+Tema:
+	- Desenhos
+
+Conteúdo:
+	- Sinopse
+	- Avaliação
+
+Imagem:
+	- Sim, cartazes!
+
+Vídeo:
+	- Não!
