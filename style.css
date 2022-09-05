@@ -1,0 +1,39 @@
+body{
+    background-color: #E09769;
+}
+
+
+li{
+    color:  #ffffff;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h1{
+    color: #ffffff;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.titulo{
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    font-size:40px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.texto{
+    color: #302520;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.videosize{
+    width: 560px;
+    height: 315px;
+}
+
+
